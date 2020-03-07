@@ -1,0 +1,141 @@
+.top-container{
+  margin-top:0px;
+  background-color: #eafbea;
+  margin-left: 0px;
+  position:relative;
+  padding: 75px;
+  font-family: Papyrus,fantasy;
+
+  }
+  .bottom-container{
+    background-color: #66BFBF;
+    padding-top: 23px;
+    padding-bottom:23px
+
+
+  }
+  .middle-container{
+
+    }
+  h1{
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2.625rem;
+    color:#110133;
+
+
+  }
+  h2{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+
+  }
+  h3{
+    font-family: 'Cantarell', sans-serif;
+  }
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+font-size: 100%;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 372px;
+}
+.top-cloud
+{
+  position: absolute;
+  top: 20px;
+  left: 975px;
+}
+.img1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.img2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+h3{
+  font-size: 27px;
+}
+.a{
+color:#11999E;
+}
+.pro{
+  font-weight:normal;
+}
+.line-height{
+  line-height: 2;
+}
+.skill-row{
+  width: 50%;
+margin: 100px auto 100px auto;
+line-height: 2;
+  }
+.b{
+  text-align: left;
+
+}
+.shri{
+  width:12%;
+}
+.dot{
+  border-style: none;
+  border-top-style:dotted;
+  border-width: 7px;
+width: 5%;
+border-color: #dfddc7;
+}
+body{
+  background-color: #f8f8f8;
+}
+.skill{
+  margin-top: 32px;
+}
+.button {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px 26px 2px;
+  cursor: pointer;
+}
+.l{
+  margin-right: 80px;
+  border-color: #11999E;
+  text-decoration: none;
+}
+.t{
+  margin-right: 80px;
+  border-color: #11999E;
+  text-decoration: none;
+}
+.w{
+  border-color: #11999E;
+  text-decoration: none;
+}
+.copy
+{
+  color: #EAF6F6;
+}
+a:hover{
+  color: #f6f6f6;
+}
+.contact:hover{
+  background-color: #048998;
+}
